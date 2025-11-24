@@ -1,0 +1,8 @@
+{
+  "name": "Yishipping",
+  "description": "Intelligent courier and logistics management system with Gemini-powered parcel intake and routing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
